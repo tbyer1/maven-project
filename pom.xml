@@ -17,7 +17,7 @@
 		<derby.version>10.13.1.1</derby.version>
 		<activemq.version>5.14.5</activemq.version>
 		<uid>user</uid>
-		<pwd>oasswird</pwd>
+		<pwd>password</pwd>
 	</properties>
 
 	<build>
